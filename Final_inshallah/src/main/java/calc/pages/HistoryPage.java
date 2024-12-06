@@ -30,7 +30,7 @@ public class HistoryPage implements ActionListener {
 
     public HistoryPage() {
         // Initialize components
-        deleteHistoryButton = new JButton("Delete History");
+        deleteHistoryButton = new JButton("Delete HistorY");
         deleteHistoryButton.setFont(new Font("Arial", Font.BOLD | Font.ITALIC, 20));
         deleteHistoryButton.setFocusable(false);
         deleteHistoryButton.setBackground(Color.decode("#b567a8"));
