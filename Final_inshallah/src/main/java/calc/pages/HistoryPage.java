@@ -101,7 +101,7 @@ public class HistoryPage implements ActionListener {
     public static void updateHistoryDisplay() {
         historyTextaArea.setText(""); // Clear existing text
         for (String expression : historyList) {
-            historyTextaArea.append(expression + "\n\n");
+            historyTextaArea.append(expression + "\n--------------------------------------------------------------------\n");
         }
     }
 
