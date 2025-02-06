@@ -8,7 +8,9 @@
   <a href="#how-to-use">How To Use</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+ <img src="Screenshot 2025-02-06 205646.png" alt="Markdownify" width="200" ></img>
+  <img src="Screenshot 2025-02-06 205615.png" alt="Markdownify" width="200" ></img>
+   <img src="Screenshot 2025-02-06 205546.png" alt="Markdownify" width="200" ></img>
 
 ## Key Features
 
