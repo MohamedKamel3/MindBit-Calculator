@@ -1,10 +1,7 @@
 
 <h1 align="center">
   <br>
- <img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></img>
-  <br>
- MindBit Team
-  <br>
+ <img src="Final_inshallah/src/main/java/logo2.png" alt="Markdownify" width="200" ></img>
 </h1>
 
 <h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
